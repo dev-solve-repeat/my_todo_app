@@ -1,0 +1,5 @@
+add new todo
+buy grocery
+repair computer
+buy new bags
+do the laundry
